@@ -3,10 +3,7 @@ lalal
 new line
 fdgfgfgfg
 
-<<<<<<< HEAD
 another line
-=======
 new another
 fdsf
 gfdgfghs
->>>>>>> d66e1b634724fde6275b1c3ba4e5707ae32865a7
